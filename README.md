@@ -1,2 +1,2 @@
-# toy_bin
-toy binary for experiments with emscripten in conjunction conda-forgen
+# showcase
+a showcase form emscripten wasm boa python pybind11 stuff
